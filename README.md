@@ -51,3 +51,12 @@ Out:
 ```
 
 
+### Document readers
+It is possible to read ranked document list from different sources:
+
+* Json
+* Elasticsearch (to be implemented)
+* Solr (to be implement)
+* Text files (to be implemented)
+* Pandas dataframes (to be implemented)
+
