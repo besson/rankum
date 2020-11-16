@@ -1,0 +1,45 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 0,
+    "params": {
+      "q": "smartphone"
+    }
+  },
+  "response": {
+    "numFound": 27,
+    "start": 0,
+    "docs": [
+      {
+        "id": "1",
+        "category": "cellphones",
+        "_version_": 1674206250103996416
+      },
+      {
+        "id": "2",
+        "category": "cellphones",
+        "_version_": 1674206250224582656
+      },
+      {
+        "id": "3",
+        "category": "accessories",
+        "_version_": 1674206250229825536
+      },
+      {
+        "id": "4",
+        "category": "cellphones",
+        "_version_": 1674206250235068416
+      },
+      {
+        "id": "5",
+        "category": "services",
+        "_version_": 1674206250238214144
+      },
+      {
+        "id": "6",
+        "category": "electronics",
+        "_version_": 1674206250242408448
+      }
+    ]
+  }
+}

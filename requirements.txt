@@ -1,0 +1,4 @@
+rankum~=0.1
+requests~=2.25.0
+mockito~=1.2.2
+setuptools~=50.3.2
