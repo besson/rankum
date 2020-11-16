@@ -1,0 +1,15 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 0,
+    "params": {
+      "q": "smartphone"
+    }
+  },
+  "response": {
+    "numFound": 0,
+    "start": 0,
+    "docs": [
+    ]
+  }
+}
